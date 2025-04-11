@@ -1,27 +1,72 @@
 [
     {
         "id": 1,
-        "jobLocation": "Larian Studios",
-        "jobImage": "/assets/larian2.jpg"
+        "jobCompany": "Larian Studios",
+        "jobImage": "/assets/larian2.jpg",
+        "jobCulture": "culture placeholder",
+        "jobBenefit": "benefit placeholder",
+        "jobHybrid": "hybrid placeholder",
+        "jobLocation": "location placeholder",
+        "jobStackAndSkill": "answer placeholder",
+        "jobAchieve": "answer placeholder",
+        "jobCurrentSkillset": "answer placeholder",
+        "jobCompanyLink": "link",
+        "jobPositionLink": "link"
     },
     {
         "id": 2,
-        "jobLocation": "Hasbro",
-        "jobImage": "/assets/hasbro2.jpg"
+        "jobCompany": "Hasbro",
+        "jobImage": "/assets/hasbro2.jpg",
+        "jobCulture": "culture placeholder",
+        "jobBenefit": "benefit placeholder",
+        "jobHybrid": "hybrid placeholder",
+        "jobLocation": "location placeholder",
+        "jobStackAndSkill": "answer placeholder",
+        "jobAchieve": "answer placeholder",
+        "jobCurrentSkillset": "answer placeholder",
+        "jobCompanyLink": "link",
+        "jobPositionLink": "link"
     },
     {
         "id": 3,
-        "jobLocation": "Lego",
-        "jobImage": "/assets/lego2.jpg"
+        "jobCompany": "Lego",
+        "jobImage": "/assets/lego2.jpg",
+        "jobCulture": "culture placeholder",
+        "jobBenefit": "benefit placeholder",
+        "jobHybrid": "hybrid placeholder",
+        "jobLocation": "location placeholder",
+        "jobStackAndSkill": "answer placeholder",
+        "jobAchieve": "answer placeholder",
+        "jobCurrentSkillset": "answer placeholder",
+        "jobCompanyLink": "link",
+        "jobPositionLink": "link"
     },
     {
         "id": 4,
-        "jobLocation": "Pixar",
-        "jobImage": "/assets/pixar2.jpg"
+        "jobCompany": "Pixar",
+        "jobImage": "/assets/pixar2.jpg",
+        "jobCulture": "culture placeholder",
+        "jobBenefit": "benefit placeholder",
+        "jobHybrid": "hybrid placeholder",
+        "jobLocation": "location placeholder",
+        "jobStackAndSkill": "answer placeholder",
+        "jobAchieve": "answer placeholder",
+        "jobCurrentSkillset": "answer placeholder",
+        "jobCompanyLink": "link",
+        "jobPositionLink": "link"
     },
     {
         "id": 5,
-        "jobLocation": "Blizzard",
-        "jobImage": "/assets/blizzard2.jpg"
+        "jobCompany": "Blizzard",
+        "jobImage": "/assets/blizzard2.jpg",
+        "jobCulture": "culture placeholder",
+        "jobBenefit": "benefit placeholder",
+        "jobHybrid": "hybrid placeholder",
+        "jobLocation": "location placeholder",
+        "jobStackAndSkill": "answer placeholder",
+        "jobAchieve": "answer placeholder",
+        "jobCurrentSkillset": "answer placeholder",
+        "jobCompanyLink": "link",
+        "jobPositionLink": "link"
     }
 ]
