@@ -1,22 +1,27 @@
 [
     {
         "id": 1,
-        "jobLocation": "larian"
+        "jobLocation": "Larian Studios",
+        "jobImage": "/assets/larian2.jpg"
     },
     {
         "id": 2,
-        "jobLocation": "hasbro"
+        "jobLocation": "Hasbro",
+        "jobImage": "/assets/hasbro2.jpg"
     },
     {
         "id": 3,
-        "jobLocation": "lego"
+        "jobLocation": "Lego",
+        "jobImage": "/assets/lego2.jpg"
     },
     {
         "id": 4,
-        "jobLocation": "pixar"
+        "jobLocation": "Pixar",
+        "jobImage": "/assets/pixar2.jpg"
     },
     {
         "id": 5,
-        "jobLocation": "blizzard"
+        "jobLocation": "Blizzard",
+        "jobImage": "/assets/blizzard2.jpg"
     }
 ]

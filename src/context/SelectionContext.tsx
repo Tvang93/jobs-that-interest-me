@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useReducer, useState } from "react";
 
-export type JobSelection = "larian" | "hasbro" | "lego" | "pixar" | "blizzard" | null;
+export type JobSelection = "Larian Studios" | "Hasbro" | "Lego" | "Pixar" | "Blizzard" | null;
 
 // interface State {
 //   activeJobSelection: JobSelection;
