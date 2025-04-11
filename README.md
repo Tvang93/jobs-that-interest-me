@@ -15,4 +15,5 @@ You are to create a website with Next.JS/TypeScript about five places that you w
     -   Do you currently have the skillsets for the job?
 If possible add a hyperlink to the Company and a closely related position.
 
-### Peer Review
+### Peer Review: robert g 
+- I like the creativity for the page start other than that everything looks good; it runs just fine as it should;
