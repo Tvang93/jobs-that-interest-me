@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "jobLocation": "larian"
+    },
+    {
+        "id": 2,
+        "jobLocation": "hasbro"
+    },
+    {
+        "id": 3,
+        "jobLocation": "lego"
+    },
+    {
+        "id": 4,
+        "jobLocation": "pixar"
+    },
+    {
+        "id": 5,
+        "jobLocation": "blizzard"
+    }
+]
