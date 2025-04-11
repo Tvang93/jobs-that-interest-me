@@ -4,7 +4,7 @@ import {
   useJobSelectionContext,
   useMadeSelectionContext,
 } from "@/context/SelectionContext";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import JobInfo from "@/utils/jobinfo.json";
 
 interface IJobData {
@@ -26,6 +26,10 @@ const JobComponent = () => {
   const { setSelectionMade } = useMadeSelectionContext();
   const { jobSelection, setJobSelection } = useJobSelectionContext();
   const [jobData, setJobData] = useState<IJobData[]>(JobInfo);
+
+  useEffect(()=>{
+    setJobData(JobInfo)
+  }, [])
 
   console.log(jobData);
   const filteredJobData = jobData.filter(

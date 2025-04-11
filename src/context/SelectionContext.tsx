@@ -1,32 +1,9 @@
 "use client";
 
-import { createContext, useContext, useReducer, useState } from "react";
+import { createContext, useContext, useState } from "react";
 
 export type JobSelection = "Larian Studios" | "Hasbro" | "Lego" | "Pixar" | "Blizzard" | null;
 
-// interface State {
-//   activeJobSelection: JobSelection;
-// }
-
-// type ActionType = "Set_JobSelection";
-
-// interface Action {
-//   type: ActionType;
-//   payload: JobSelection;
-// }
-
-// const initialState: State = {
-//   activeJobSelection: null,
-// };
-
-// const JobSelectionReducer = (state: State, action: Action) => {
-//   switch (action.type) {
-//     case "Set_JobSelection":
-//       return { activeJobSelection: action.payload };
-//     default:
-//       return state;
-//   }
-// };
 
 interface IJobSelection {
   jobSelection: JobSelection;

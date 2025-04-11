@@ -1,5 +1,4 @@
 import RenderComponent from "@/components/RenderComponent";
-import SelectionComponent from "@/components/SelectionComponent";
 
 export default function Home() {
   return (
