@@ -10,6 +10,7 @@ const RenderComponent = () => {
 
   return (
     <div>
+      <header className={`bg-black text-white text-center text-6xl w-full ${selectionMade ? `static` : `absolute`}`}>Jobs That Interest Me</header>
         {
             selectionMade ? <JobComponent /> : <SelectionComponent />
         }
